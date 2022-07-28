@@ -8,3 +8,6 @@ Then, the campers should make their own branch using git branch and navigate to 
 When you finish changing the mad libs file, use git add <filename> to add your file. Then you can use git commit and git push to publish your changes.
   
 Instructors, once your students are finished, have them send you their branch names. Use git merge <branch> to merge their branch into yours. You should keep a few words from each student as you merge. Then, when everyone has finished and commited their mad libs, you will have one final mad lib that has contributions from everyone!
+  
+  https://drive.google.com/drive/folders/1lOf61xcbcZ9Zawx5cLDnqx2ZCgcoqcuX
+  
